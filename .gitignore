@@ -1,32 +1,30 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
+# Build outputs
 *.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
+*.d
+lib*.so
+lib*.so.*
 *.a
-*.lib
+build*/
+.dep
+__pycache__
+*.pyc
 
-# Executables
-*.exe
-*.out
-*.app
+# Eclipse
+.metadata
+.settings
+.project
+.cproject
+.pydevproject
+.gdbinit
+
+# vsstudio code
+.vscode
+
+# vagrant
+.vagrant
+
+# libuavcan DSDL compiler default output directory
+dsdlc_generated
+
+# Log files
+*.log
