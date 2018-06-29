@@ -1,2 +1,4 @@
-# libuavcan_linux
-Libuavcan platform driver for Linux, and Linux-specific helpers for Libuavcan
+Libuavcan platform driver for Linux
+===================================
+
+Read the docs at <https://uavcan.org/Implementations/Libuavcan/Platforms/Linux/>.
