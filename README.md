@@ -1,7 +1,7 @@
 Libuavcan platform driver for Linux
 ===================================
 
-[![Gitter](https://img.shields.io/badge/gitter-join%20chat-green.svg)](https://gitter.im/UAVCAN/general)
+**[!!! THIS REPOSITORY HAS MOVED !!!](https://github.com/UAVCAN/platform_specific_components/tree/legacy-v0)**
 
 This page describes the libuavcan driver for Linux and shows how to use the library on Linux.
 The libuavcan driver for Linux is a header-only C++11 library that implements a fully functional platform interface
